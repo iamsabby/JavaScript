@@ -1,0 +1,13 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  nav ul{
+    display: flex;
+  }
+  
+  li{
+    list-style: none;
+    padding: 0 23px;
+  }
