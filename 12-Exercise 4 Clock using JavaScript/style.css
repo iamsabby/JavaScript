@@ -1,0 +1,20 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.heading {
+    background-color: red;
+    text-align: center;
+    height: 70px;
+    padding-top: 5px;
+    color: white;
+}
+
+.clock {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
