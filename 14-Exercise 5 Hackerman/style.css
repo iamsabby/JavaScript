@@ -1,0 +1,14 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    background-color: black;
+    text-align: center;
+  }
+  
+  h1 {
+    color: greenyellow;
+    text-align: center;
+  }
